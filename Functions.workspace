@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Functions" Database="" Version="10000">
+  <Project Name="UpperCase" Path="UpperCase/UpperCase.project" Active="No"/>
+  <Project Name="ReturnStringReferenceFunction" Path="UpperCaseReturnString/UpperCaseReturnString.project" Active="No"/>
+  <Project Name="FlashWithInput" Path="BasicFlash/BasicFlash.project" Active="No"/>
+  <Project Name="UpperCaseBasicStringClass" Path="UpperCaseBasicStringClass/UpperCaseBasicStringClass.project" Active="No"/>
+  <Project Name="StringStripSpaces" Path="StringStripSpaces/StringStripSpaces.project" Active="No"/>
+  <Project Name="ReverseVectorElements" Path="ReverseVectorElements/ReverseVectorElements.project" Active="No"/>
+  <Project Name="RandomNumberGenerartor" Path="RandomNumberGenerartor/RandomNumberGenerartor.project" Active="No"/>
+  <Project Name="LowerCaseBasicSrringClass" Path="LowerCaseBasicSrringClass/LowerCaseBasicSrringClass.project" Active="No"/>
+  <Project Name="VectorReturnEvenNumbers" Path="VectorReturnEvenNumber/VectorReturnEvenNumber.project" Active="Yes"/>
+  <Project Name="VectorReturnOddNumbers" Path="VectorReturnOddNumbers/VectorReturnOddNumbers.project" Active="No"/>
+  <Project Name="ExtractAWordFromAVector" Path="ExtractAWordFromAVector/ExtractAWordFromAVector.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="UpperCase" ConfigName="Debug"/>
+      <Project Name="ReturnStringReferenceFunction" ConfigName="Debug"/>
+      <Project Name="FlashWithInput" ConfigName="Debug"/>
+      <Project Name="UpperCaseBasicStringClass" ConfigName="Debug"/>
+      <Project Name="StringStripSpaces" ConfigName="Debug"/>
+      <Project Name="ReverseVectorElements" ConfigName="Debug"/>
+      <Project Name="RandomNumberGenerartor" ConfigName="Debug"/>
+      <Project Name="LowerCaseBasicSrringClass" ConfigName="Debug"/>
+      <Project Name="VectorReturnEvenNumbers" ConfigName="Debug"/>
+      <Project Name="VectorReturnOddNumbers" ConfigName="Debug"/>
+      <Project Name="ExtractAWordFromAVector" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="UpperCase" ConfigName="Release"/>
+      <Project Name="ReturnStringReferenceFunction" ConfigName="Release"/>
+      <Project Name="FlashWithInput" ConfigName="Release"/>
+      <Project Name="UpperCaseBasicStringClass" ConfigName="Release"/>
+      <Project Name="StringStripSpaces" ConfigName="Release"/>
+      <Project Name="ReverseVectorElements" ConfigName="Release"/>
+      <Project Name="RandomNumberGenerartor" ConfigName="Release"/>
+      <Project Name="LowerCaseBasicSrringClass" ConfigName="Release"/>
+      <Project Name="VectorReturnEvenNumbers" ConfigName="Release"/>
+      <Project Name="VectorReturnOddNumbers" ConfigName="Release"/>
+      <Project Name="ExtractAWordFromAVector" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
