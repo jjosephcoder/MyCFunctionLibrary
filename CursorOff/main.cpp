@@ -1,6 +1,6 @@
 #include <iostream>
-#include <windows.h> //Library for using Windows System Colours
-#include <mmsystem.h> //Library for accessing windows multimedia method
+#include <windows.h> //Library for using Windows System Colours & Cursor visibility
+
 
 using namespace std;
 

@@ -12,6 +12,7 @@
   <Project Name="VectorReturnOddNumbers" Path="VectorReturnOddNumbers/VectorReturnOddNumbers.project" Active="No"/>
   <Project Name="ExtractAWordFromAVector" Path="ExtractAWordFromAVector/ExtractAWordFromAVector.project" Active="No"/>
   <Project Name="CursorOff" Path="CursorOff/CursorOff.project" Active="Yes"/>
+  <Project Name="FlashingCursorEffect" Path="FlashingCursorEffect/FlashingCursorEffect.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -27,6 +28,7 @@
       <Project Name="VectorReturnOddNumbers" ConfigName="Debug"/>
       <Project Name="ExtractAWordFromAVector" ConfigName="Debug"/>
       <Project Name="CursorOff" ConfigName="Debug"/>
+      <Project Name="FlashingCursorEffect" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -42,6 +44,7 @@
       <Project Name="VectorReturnOddNumbers" ConfigName="Release"/>
       <Project Name="ExtractAWordFromAVector" ConfigName="Release"/>
       <Project Name="CursorOff" ConfigName="Release"/>
+      <Project Name="FlashingCursorEffect" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
