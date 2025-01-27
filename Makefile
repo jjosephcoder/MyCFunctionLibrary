@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "==========Building project:[ VectorReturnEvenNumbers - Debug ]=========="
-	@cd "VectorReturnEvenNumber" && "$(MAKE)" -f  "VectorReturnEvenNumbers.mk"
+	@echo "==========Building project:[ CursorOff - Debug ]=========="
+	@cd "CursorOff" && "$(MAKE)" -f  "CursorOff.mk"
 clean:
-	@echo "==========Cleaning project:[ VectorReturnEvenNumbers - Debug ]----------"
-	@cd "VectorReturnEvenNumber" && "$(MAKE)" -f  "VectorReturnEvenNumbers.mk" clean
+	@echo "==========Cleaning project:[ CursorOff - Debug ]----------"
+	@cd "CursorOff" && "$(MAKE)" -f  "CursorOff.mk" clean

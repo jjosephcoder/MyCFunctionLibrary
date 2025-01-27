@@ -8,9 +8,10 @@
   <Project Name="ReverseVectorElements" Path="ReverseVectorElements/ReverseVectorElements.project" Active="No"/>
   <Project Name="RandomNumberGenerartor" Path="RandomNumberGenerartor/RandomNumberGenerartor.project" Active="No"/>
   <Project Name="LowerCaseBasicSrringClass" Path="LowerCaseBasicSrringClass/LowerCaseBasicSrringClass.project" Active="No"/>
-  <Project Name="VectorReturnEvenNumbers" Path="VectorReturnEvenNumber/VectorReturnEvenNumber.project" Active="Yes"/>
+  <Project Name="VectorReturnEvenNumbers" Path="VectorReturnEvenNumber/VectorReturnEvenNumber.project" Active="No"/>
   <Project Name="VectorReturnOddNumbers" Path="VectorReturnOddNumbers/VectorReturnOddNumbers.project" Active="No"/>
   <Project Name="ExtractAWordFromAVector" Path="ExtractAWordFromAVector/ExtractAWordFromAVector.project" Active="No"/>
+  <Project Name="CursorOff" Path="CursorOff/CursorOff.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -25,6 +26,7 @@
       <Project Name="VectorReturnEvenNumbers" ConfigName="Debug"/>
       <Project Name="VectorReturnOddNumbers" ConfigName="Debug"/>
       <Project Name="ExtractAWordFromAVector" ConfigName="Debug"/>
+      <Project Name="CursorOff" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -39,6 +41,7 @@
       <Project Name="VectorReturnEvenNumbers" ConfigName="Release"/>
       <Project Name="VectorReturnOddNumbers" ConfigName="Release"/>
       <Project Name="ExtractAWordFromAVector" ConfigName="Release"/>
+      <Project Name="CursorOff" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
