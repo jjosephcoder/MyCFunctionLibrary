@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "==========Building project:[ CursorOff - Debug ]=========="
-	@cd "CursorOff" && "$(MAKE)" -f  "CursorOff.mk"
+	@echo "==========Building project:[ FlashingCursorEffect - Debug ]=========="
+	@cd "FlashingCursorEffect" && "$(MAKE)" -f  "FlashingCursorEffect.mk"
 clean:
-	@echo "==========Cleaning project:[ CursorOff - Debug ]----------"
-	@cd "CursorOff" && "$(MAKE)" -f  "CursorOff.mk" clean
+	@echo "==========Cleaning project:[ FlashingCursorEffect - Debug ]----------"
+	@cd "FlashingCursorEffect" && "$(MAKE)" -f  "FlashingCursorEffect.mk" clean

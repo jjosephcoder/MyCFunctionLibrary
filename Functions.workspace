@@ -11,8 +11,8 @@
   <Project Name="VectorReturnEvenNumbers" Path="VectorReturnEvenNumber/VectorReturnEvenNumber.project" Active="No"/>
   <Project Name="VectorReturnOddNumbers" Path="VectorReturnOddNumbers/VectorReturnOddNumbers.project" Active="No"/>
   <Project Name="ExtractAWordFromAVector" Path="ExtractAWordFromAVector/ExtractAWordFromAVector.project" Active="No"/>
-  <Project Name="CursorOff" Path="CursorOff/CursorOff.project" Active="Yes"/>
-  <Project Name="FlashingCursorEffect" Path="FlashingCursorEffect/FlashingCursorEffect.project"/>
+  <Project Name="CursorOff" Path="CursorOff/CursorOff.project" Active="No"/>
+  <Project Name="FlashingCursorEffect" Path="FlashingCursorEffect/FlashingCursorEffect.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
